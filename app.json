@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "reactnativedevcweek4",
+    "slug": "reactnativedevcweek4",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Let's build a Todo ✅ app 📱 using React Native & Expo. Our app will help users keep track of all the things they need to do!",
+    "githubUrl": "https://github.com/longtm101898/DevC_Week4"
+  }
+}
